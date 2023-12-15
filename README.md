@@ -6,5 +6,7 @@ Location-based Forecast: Provide accurate forecasts based on the user's selected
 
 #Requirements
 https://openweathermap.org/
+
 https://developers.google.com/custom-search/v1/introduction
+
 https://programmablesearchengine.google.com/controlpanel/all
